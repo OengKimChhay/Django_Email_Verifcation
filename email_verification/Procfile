@@ -1,1 +1,1 @@
-web: waitress-serve --port=8000 email_verification.wsgi:application
+web: gunicorn email_verification.wsgi:application
