@@ -26,7 +26,7 @@ SECRET_KEY = '09(9g-i5qsz4v^f7wcej%t4i6&e75dcy#b*_*pql4u+c(x7k^d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['djangoemailverify.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['djangoemail-verify.herokuapp.com', 'localhost']
 
 # Application definition
 
